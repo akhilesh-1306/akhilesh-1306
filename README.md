@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUH7ZjMdWxblQXkgmQZ1xyt0H6-flqhZeHzg&usqp=CAU)](https://akhilesh-1306.io)
+[![MasterHead](https://i.pinimg.com/736x/11/1a/21/111a218fa1455232512f17ee86d98eff.jpg)](https://akhilesh-1306.io)
 <h1 align="center">Hi 👋, I'm Akhilesh Nekar</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/59/87/1c/59871c7fb4ca4d906e9ef1f4566cd378.gif">
